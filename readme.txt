@@ -2,17 +2,20 @@
 
 DESCRIPTION:
 
-Jacqueline|Antiques is a clean, modern and well crafted responsive template designed for creatives and agencies.
-The template suits the needs of creative agencies, freelancers, and even small business websites.
-Jacqueline|Antiques is mobile and retina/hi-dpi ready which means your site will look awesome, crisp and sharp
-on any screen resolutions and devices. Also, the code behind Jacqueline|Antiques is clean and well organized
-which makes the template very easy to customize.
+Jacqueline | Antiques is a clean, modern and well crafted responsive website.
+Built from a terrific template that suits the needs of small businesses.
+Jacqueline | Antiques is mobile and retina/hi-dpi ready which means awesome, crisp and sharp display
+on any screen resolutions and devices. Also, the code behind Jacqueline | Antiques is clean and well organized
+which made the template very easy to customize.
+
+Styleshout.com Baby!!
+
+My first 10 USD will be used to removing the link (kidding!)
 
 ==================================================================================================
 
 
 LICENSE:
-
 
 Jacqueline|Antiques is released under the Creative Commons Attribution 3.0 License
 (http://creativecommons.org/licenses/by/3.0/). This means that you are free:
@@ -61,7 +64,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
 
-Since INIFINITY is distributed for free, support is not offered. Jacqueline|Antiques is coded according
+Since INIFINITY is distributed for free, support is not offered. Jacqueline | Antiques is coded according
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum Minding the Store experience, you can easily modify the template.
 However, If you're still new to HTML and CSS, I suggest that you visit the
